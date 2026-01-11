@@ -17,10 +17,6 @@ This repository contains a Python program that combines three useful utilities f
    - Performs basic arithmetic: +, -, *, /
    - Handles division by zero
 
-## How to Run
-1. Clone the repository
-2. Open `all_programs.py` in Python 3
-3. Run the program and choose from the menu
 
 ## Language
 - Python 3
